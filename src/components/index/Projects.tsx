@@ -85,7 +85,7 @@ export const Projects = () => {
       title: "Ticketing",
       description:
         "Web application for the management request ticketing company.",
-      imgUrl: "/assets/imgs/urus.png",
+      imgUrl: "/assets/imgs/ticketing.png",
       deployedUrl: "https://ticketing.abhatigroup.com/",
       tech: ["html", "css", "javascript", "php", "mysql", "ci4"],
     },
