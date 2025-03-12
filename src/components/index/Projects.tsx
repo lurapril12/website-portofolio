@@ -31,6 +31,24 @@ export const Projects = () => {
       deployedUrl: "https://jobjourney-plum.vercel.app/",
       tech: ["html", "tailwind", "javascript", "node", "react"],
     },
+    {
+      title: "Web3 Ethereal",
+      description:
+        "Web3 Ethereal is a decentralized application that offers a wide range of NFTs, resources, and tools for crypto enthusiasts.",
+      imgUrl: "/assets/imgs/ethereal.png",
+      githubUrl: "https://github.com/lurapril12/ethereal",
+      deployedUrl: "https://ethereal-woad.vercel.app/",
+      tech: ["html", "tailwind", "javascript", "node", "react", "next"],
+    },
+    {
+      title: "Web Portfolio",
+      description:
+        "Web Portfolio is a personal website that showcases a wide range of projects, resources, and tools for developers.",
+      imgUrl: "/assets/imgs/portofolio.png",
+      githubUrl: "https://github.com/lurapril12/my-portofolio-new-version",
+      deployedUrl: "https://my-portofolio-new-version.vercel.app/",
+      tech: ["html", "tailwind", "javascript", "react", "next"],
+    },
   ];
 
   const openSource: ProjectProps[] = [
@@ -49,7 +67,7 @@ export const Projects = () => {
     {
       title: "Myerems",
       description:
-        "Myerems is a web aplication for approved memo finace.",
+        "Myerems is a web aplication for approved memo finance.",
       imgUrl: "/assets/imgs/myerems.png",
       githubUrl: "https://github.com/lurapril12/myerems",
       deployedUrl: "https://myerems.abhatigroup.com/",
@@ -59,9 +77,41 @@ export const Projects = () => {
       title: "URUS",
       description:
         "Web application for the management asset company.",
-      imgUrl: "/assets/imgs/image.png",
+      imgUrl: "/assets/imgs/urus.png",
       deployedUrl: "https://urus.abhatigroup.com/",
       tech: ["html", "css", "javascript", "php", "mysql", "ci4"],
+    },
+    {
+      title: "Ticketing",
+      description:
+        "Web application for the management request ticketing company.",
+      imgUrl: "/assets/imgs/urus.png",
+      deployedUrl: "https://ticketing.abhatigroup.com/",
+      tech: ["html", "css", "javascript", "php", "mysql", "ci4"],
+    },
+    {
+      title: "Web Company BLV",
+      description:
+        "Web company with a focus on the development of a website for a company.",
+      imgUrl: "/assets/imgs/blv.png",
+      deployedUrl: "https://bungursarilakeview.com/",
+      tech: ["html", "css", "javascript", "wordpress"],
+    },
+    {
+      title: "Web Company GNK",
+      description:
+        "Web company with a focus on the development of a website for a company.",
+      imgUrl: "/assets/imgs/gnk.png",
+      deployedUrl: "https://gnk.co.id/",
+      tech: ["html", "css", "javascript", "wordpress"],
+    },
+    {
+      title: "Web Company GLK",
+      description:
+        "Web company with a focus on the development of a website for a company.",
+      imgUrl: "/assets/imgs/glk.png",
+      deployedUrl: "https://galalaksana.com/",
+      tech: ["html", "css", "javascript", "wordpress"],
     },
   ];
 

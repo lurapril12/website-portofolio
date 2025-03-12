@@ -28,6 +28,8 @@ export const Skills = () => {
                     "php",
                     "figma",
                     "git",
+                    "mysql",
+                    "wordpress",
                   ].map((toolName) => (
                     <OverlayTrigger
                       key={toolName}

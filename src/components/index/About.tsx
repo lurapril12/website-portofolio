@@ -18,19 +18,19 @@ export const About = () => {
             </p>
             <Row>
               <Widget
-                title="Previously"
-                imgUrl="/assets/imgs/labcoat.webp"
-                description="In her final 2.5 years at Mercu Buana University, Lurry focused on Machine Learning and Data Science, particularly on Coffee Crop Yield Prediction. She also mentored peers in programming and data visualization. After earning her Bachelor’s Degree in Informatics Engineering in 3.5 years, she gained experience as an IT Programmer, contributing to full-stack and automation projects. Lurry’s work is guided by a problem-solving mindset and a people-first approach."
+                title="Education"
+                imgUrl="/assets/imgs/education.png"
+                description="With a degree in Informatics Engineering, I strive to support diverse communities in tech. My background in software development, data analysis, and quality assurance gives me insight into industry challenges. In my spare time, I collaborate on coding projects and engage in tech communities."
               />
               <Widget
-                title="Community"
+                title="Passion"
                 imgUrl="/assets/imgs/shaking-hands.webp"
-                description="As a woman in tech, Lurry is deeply passionate about empowering others, especially those from diverse and underrepresented backgrounds. Her journey in software engineering has given her a unique perspective and a strong sense of empathy for others facing challenges in the industry. In her free time, you’ll often find her collaborating on pair programming, engaging in community learning, assisting fellow developers in optimizing their code and design, or discussing the latest trends in technology on online platforms and forums"
+                description="As a woman in tech, I am passionate about empowering diverse and underrepresented groups. My journey in software engineering has given me a unique perspective and strong empathy for industry challenges. In my free time, I collaborate on pair programming, engage in community learning, and discuss the latest tech trends online."
               />
               <Widget
-                title="Mantra"
+                title="Experience"
                 imgUrl="/assets/imgs/seedling.webp"
-                description="Lurry Putri is passionate about web development, with a focus on frontend. She enjoys crafting user-friendly, visually appealing websites and constantly improving her skills in frameworks like React.js. Always eager to learn, Lurry stays updated on the latest trends and strives to create impactful digital experiences."
+                description="With over 2 years of experience in fullstack development using PHP CI4, frontend engineering with React.js and Next.js, and WordPress development, I also have expertise in UI/UX design with Figma. I am dedicated to creating dynamic, user-friendly, and visually engaging digital experiences while staying updated with industry trends."
               />
             </Row>
           </Col>
