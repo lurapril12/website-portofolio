@@ -49,6 +49,14 @@ export const Projects = () => {
       deployedUrl: "https://my-portofolio-new-version.vercel.app/",
       tech: ["html", "tailwind", "javascript", "react", "next"],
     },
+    {
+      title: "Web UI/UX Design Portfolio",
+      description:
+        "Web UI/UX Design Portfolio is a personal website that showcases a wide range of design projects, resources, and tools for designers.",
+      imgUrl: "/assets/imgs/charity.png",
+      deployedUrl: "https://dribbble.com/shots/26618896-Donation-Platform-UI-Design?utm_source=Clipboard_Shot&utm_campaign=luriputri&utm_content=Donation%20Platform%20UI%20Design&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=luriputri&utm_content=Donation%20Platform%20UI%20Design&utm_medium=Social_Share",
+      tech: ["figma", "photoshop", "canva"],
+    },
   ];
 
   const openSource: ProjectProps[] = [
@@ -95,7 +103,7 @@ export const Projects = () => {
         "Web company with a focus on the development of a website for a company.",
       imgUrl: "/assets/imgs/blv.png",
       deployedUrl: "https://bungursarilakeview.com/",
-      tech: ["html", "css", "javascript", "wordpress"],
+      tech: ["html", "css", "PHP", "javascript", "wordpress","elementor"],
     },
     {
       title: "Web Company GNK",
@@ -103,7 +111,7 @@ export const Projects = () => {
         "Web company with a focus on the development of a website for a company.",
       imgUrl: "/assets/imgs/gnk.png",
       deployedUrl: "https://gnk.co.id/",
-      tech: ["html", "css", "javascript", "wordpress"],
+      tech: ["html", "css", "PHP", "javascript", "wordpress"],
     },
     {
       title: "Web Company GLK",
@@ -111,7 +119,39 @@ export const Projects = () => {
         "Web company with a focus on the development of a website for a company.",
       imgUrl: "/assets/imgs/glk.png",
       deployedUrl: "https://galalaksana.com/",
-      tech: ["html", "css", "javascript", "wordpress"],
+      tech: ["html", "css", "PHP", "javascript", "wordpress","elementor"],
+    },
+    {
+      title: "Web Company Veronahills",
+      description:
+        "Web company with a focus on the development of a website for a company.",
+      imgUrl: "/assets/imgs/veronahills.png",
+      deployedUrl: "https://veronahillscirebon.com/",
+      tech: ["html", "css", "PHP", "javascript", "wordpress","elementor"],
+    },
+    {
+      title: "UI/UX Mobile App SAC",
+      description:
+        "A mobile application designed to enhance user experience and interface.",
+      imgUrl: "/assets/imgs/sac.png",
+      deployedUrl: "https://play.google.com/store/apps/details?id=abhatigroup.com.sac_mobile",
+      tech: ["figma", "photoshop", "canva"],
+    },
+    {
+      title: "Web Company Amorakarsa",
+      description:
+        "Web company with a focus on the development of a website for a company.",
+      imgUrl: "/assets/imgs/amora.png",
+      deployedUrl: "https://amorakarsa.com/",
+      tech: ["html", "css", "PHP", "javascript", "wordpress", "elementor"],
+    },
+    {
+      title: "Web ESG Charity Miles For Smiles",
+      description:
+        "Web ESG Charity Miles For Smiles with a focus on the development of a website for a event.",
+      imgUrl: "/assets/imgs/miles4smiles.png",
+      deployedUrl: "https://miles4smiles.abhatigroup.com/",
+      tech: ["html", "css", "PHP", "javascript", "wordpress", "elementor"],
     },
   ];
 

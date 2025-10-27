@@ -11,7 +11,8 @@ export const Banner = () => {
   const [characterPeriod, setCharacterPeriod] = useState(100); //how much time passes between each character being typed out
   const roles = [
     "Software Engineer",
-    "Data Analyst",
+    "UI/UX Designer",
+    "Web Developer",
   ];
   const period = 500; //how much time passes between each role
 
@@ -66,7 +67,7 @@ export const Banner = () => {
               <span
                 className="txt-role"
                 data-period="500"
-                data-role='[ "Software Engineer", "Data Analyst" ]'
+                data-role='[ "Software Engineer", "UI/UX Designer", "Web Developer"]'
               >
                 <span className="wrap">{text}</span>
               </span>

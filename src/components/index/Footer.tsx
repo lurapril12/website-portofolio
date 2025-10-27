@@ -13,7 +13,7 @@ export const Footer = () => {
             </div>
             <div className="social-icon">
               <a
-                href="https://www.linkedin.com/in/lurry-putri-aprilia/"
+                href="https://www.linkedin.com/in/lurryputriaprilia/"
                 rel="noreferrer"
                 target="_blank"
                 aria-label="linkedin"

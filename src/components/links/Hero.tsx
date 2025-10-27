@@ -10,7 +10,7 @@ const Hero = () => {
       />
 
       <h1 className="text-4xl">Lurry Putri</h1>
-      <h2 className="text-xl">Software Engineer | Data Analyst</h2>
+      <h2 className="text-xl">Software Engineer | UI/UX Designer</h2>
     </div>
   );
 };

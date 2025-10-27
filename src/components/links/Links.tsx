@@ -3,7 +3,7 @@ import Link from "./Link";
 let linksList = [
   {
     title: "LinkedIn",
-    link: "https://www.linkedin.com/in/lurry-putri-aprilia/",
+    link: "https://www.linkedin.com/in/lurryputriaprilia/",
   },
   {
     title: "Twitter",
